@@ -2,6 +2,9 @@
     -webkit-tap-highlight-color: transparent;
     font-family: sans-serif;
 }
+html {
+    scroll-padding-top: 10px;
+}
 body {
     padding: 20px;
     margin: 0;
@@ -28,7 +31,17 @@ p {
     text-align: justify;
     line-height: 22px;
 }
-blockquote {
-    text-align: justify;
-    line-height: 22px;
+.tocA {
+    margin: 0px 10px 10px 10px;
+    line-height: 24px;
+}
+#tableOfContent {
+    width: 350px;
+    border: solid 2px black;
+    padding: 0px 10px 10px 10px;
+}
+#tochead {
+    font-size: 18px;
+    margin: 10px 0 10px 0;
+    font-weight: 600;
 }
