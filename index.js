@@ -10,12 +10,20 @@ fetch("themes.json")
   });
 
 function displayThemes() {
+  var toc = document.getElementById("tableOfContent");
   var themesListContainer = document.getElementById("themesList");
 
   jsonData.categories.forEach(function (category) {
+    var tableOC = document.createElement("span");
+    var tocItem = document.createElement("a");
+    tocItem.setAttribute("href", "#" + category.categoryName);
+    tocItem.setAttribute("class", "tocA");
+    tocItem.textContent = category.categoryName;
+    tableOC.appendChild(tocItem);
+
     var categoryHeading = document.createElement("h2");
-    categoryHeading.setAttribute("class", "category")
-    categoryHeading.setAttribute("id", category.categoryName)
+    categoryHeading.setAttribute("class", "category");
+    categoryHeading.setAttribute("id", category.categoryName);
     categoryHeading.textContent = "Type: " + category.categoryName;
     themesListContainer.appendChild(categoryHeading);
 
@@ -32,9 +40,10 @@ function displayThemes() {
 
       listItem.appendChild(themeLink);
       themeList.appendChild(listItem);
-      themeList.appendChild(itemDesc)
+      themeList.appendChild(itemDesc);
     });
 
     themesListContainer.appendChild(themeList);
+    toc.appendChild(tableOC);
   });
 }

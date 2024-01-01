@@ -36,6 +36,25 @@
             "themeDesc" : "This is a wordpress theme."
           },
           {
+            "themeID" : "34675",
+            "themeName": "Theme 2",
+            "themeUrl": "https://example.com/theme4",
+            "themeDesc" : "This is a wordpress theme."
+          }
+        ]
+      },
+
+      {
+        "categoryName": "E-commerce",
+        "categoryId" : "3",
+        "themes": [
+          {
+            "themeID" : "1",
+            "themeName": "Theme 1",
+            "themeUrl": "https://example.com/theme3",
+            "themeDesc" : "This is a wordpress theme."
+          },
+          {
             "themeID" : "2",
             "themeName": "Theme 2",
             "themeUrl": "https://example.com/theme4",
