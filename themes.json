@@ -1,0 +1,48 @@
+{
+    "categories": [
+      {
+        "categoryName": "Multi",
+        "categoryId" : "1",
+        "themes": [
+          {
+            "themeID" : "1",
+            "themeName": "Hello Elementor",
+            "themeUrl": "https://wordpress.org/themes/hello-elementor/",
+            "themeDesc" : "Hello Elementor is a lightweight and minimalist WordPress theme that was built specifically to work seamlessly with the Elementor site builder plugin. The theme is free, open-source, and designed for users who want a flexible, easy-to-use, and customizable website. The theme, which is optimized for performance, provides a solid foundation for users to build their own unique designs using the Elementor drag-and-drop site builder. Its simplicity and flexibility make it a great choice for both beginners and experienced Web Creators."
+          },
+          {
+            "themeID" : "2",
+            "themeName": "GeneratePress",
+            "themeUrl": "https://wordpress.org/themes/generatepress/",
+            "themeDesc" : "GeneratePress is a lightweight WordPress theme built with a focus on speed and usability. Performance is important to us, which is why a fresh GeneratePress install adds less than 10kb (gzipped) to your page size. We take full advantage of the block editor (Gutenberg), which gives you more control over creating your content. If you use page builders, GeneratePress is the right theme for you. It is completely compatible with all major page builders, including Beaver Builder and Elementor."
+          },
+          {
+            "themeID" : "3",
+            "themeName": "Astra",
+            "themeUrl": "https://wordpress.org/themes/astra/",
+            "themeDesc" : "Astra is fast, fully customizable & beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc."
+          }
+        ]
+      },
+
+      {
+        "categoryName": "Blog",
+        "categoryId" : "2",
+        "themes": [
+          {
+            "themeID" : "1",
+            "themeName": "Theme 1",
+            "themeUrl": "https://example.com/theme3",
+            "themeDesc" : "This is a wordpress theme."
+          },
+          {
+            "themeID" : "2",
+            "themeName": "Theme 2",
+            "themeUrl": "https://example.com/theme4",
+            "themeDesc" : "This is a wordpress theme."
+          }
+        ]
+      }
+    ]
+  }
+  
