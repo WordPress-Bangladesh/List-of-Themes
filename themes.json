@@ -1,7 +1,7 @@
 {
     "categories": [
       {
-        "categoryName": "Multi",
+        "categoryName": "Multipurpose",
         "categoryId" : "1",
         "themes": [
           {
@@ -21,6 +21,36 @@
             "themeName": "Astra",
             "themeUrl": "https://wordpress.org/themes/astra/",
             "themeDesc" : "Astra is fast, fully customizable & beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc."
+          },
+          {
+            "themeID" : "4",
+            "themeName": "Sydney",
+            "themeUrl": "https://wordpress.org/themes/sydney/",
+            "themeDesc" : "Sydney is a powerful business theme that provides a fast way for companies or freelancers to create an awesome online presence. As well as being fully compatible with Elementor, Sydney brings plenty of customization possibilities like access to all Google Fonts, full color control, layout control, logo upload, full screen slider, header image, sticky navigation and much more. Also, Sydney provides all the construction blocks you need to rapidly create an engaging front page."
+          },
+          {
+            "themeID" : "5",
+            "themeName": "Kadence",
+            "themeUrl": "https://wordpress.org/themes/kadence/",
+            "themeDesc" : "Kadence Theme is a lightweight yet full featured WordPress theme for creating beautiful fast loading and accessible websites, easier than ever. It features an easy to use drag and drop header and footer builder to build any type of header in minutes. It features a full library of gorgeous starter templates that are easy to modify with our intelligent global font and color controls. With extensive integration with the most popular 3rd party plugins, you can quickly build impressive ecommerce websites, course websites, business websites, and more."
+          },
+          {
+            "themeID" : "6",
+            "themeName": "Neve",
+            "themeUrl": "https://wordpress.org/themes/neve/",
+            "themeDesc" : "Neve is a super fast, easily customizable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL & translation ready."
+          },
+          {
+            "themeID" : "7",
+            "themeName": "OceanWP",
+            "themeUrl": "https://wordpress.org/themes/oceanwp/",
+            "themeDesc" : "OceanWP is the perfect theme for your project. Lightweight and highly extendable, it will enable you to create almost any type of website such a blog, portfolio, business website and WooCommerce storefront with a beautiful & professional design. Very fast, responsive, RTL & translation ready, best SEO practices, unique WooCommerce features to increase conversion and much more. You can even edit the settings on tablet & mobile so your site looks good on every device. Work with the most popular page builders as Elementor, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, etc."
+          },
+          {
+            "themeID" : "8",
+            "themeName": "Blocksy",
+            "themeUrl": "https://wordpress.org/themes/blocksy/",
+            "themeDesc" : "Blocksy is a blazing fast and lightweight WordPress theme built with the latest web technologies. It was built with the Gutenberg editor in mind and has a lot of options that makes it extendable and customizable. You can easily create any type of website, such as business agency, shop, corporate, education, restaurant, blog, portfolio, landing page and so on. It works like a charm with popular WordPress page builders, including Elementor, Beaver Builder, Visual Composer and Brizy. Since it is responsive and adaptive, translation ready, SEO optimized and has WooCommerce built-in, you will experience an easy build and even an increase in conversions."
           }
         ]
       },
