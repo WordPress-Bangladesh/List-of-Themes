@@ -1,3 +1,11 @@
+@media only screen and (max-width: 400px) {
+    #tableOfContent {
+        width: 200px !important;
+    }
+    main{
+        background-color: blue !important;
+    }
+}
 * {
     -webkit-tap-highlight-color: transparent;
     font-family: sans-serif;
