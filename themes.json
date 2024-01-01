@@ -61,34 +61,46 @@
         "themes": [
           {
             "themeID" : "1",
-            "themeName": "Theme 1",
-            "themeUrl": "https://example.com/theme3",
-            "themeDesc" : "This is a wordpress theme."
+            "themeName": "Kale",
+            "themeUrl": "https://wordpress.org/themes/kale/",
+            "themeDesc" : "Kale is a charming and elegant, aesthetically minimal and uncluttered food blog theme that can also be used for a variety of purposes. Whether you want to share recipes or fashion tips, run a lifestyle, parenting or cooking blog, Kale is a perfect theme choice. Simple but feature-filled food blog or cooking blog WordPress theme with WooCommerce integration. Beautifully designed and extremely clean, Kale is super easy to set up and is optimized for search engines. Kale comes with a special front page; with featured posts and a large highlight post, the option to show a banner or a posts slider in the header, and RTL support."
           },
           {
-            "themeID" : "34675",
-            "themeName": "Theme 2",
-            "themeUrl": "https://example.com/theme4",
-            "themeDesc" : "This is a wordpress theme."
+            "themeID" : "2",
+            "themeName": "BlogAI",
+            "themeUrl": "https://wordpress.org/themes/blogai/",
+            "themeDesc" : "BlogAI is a fast, clean, modern-looking Best Responsive News Magazine WordPress theme. The theme is fully widgetized, so users can manage the content by using easy to use widgets. BlogAI is suitable for dynamic news, newspapers, magazine, publishers, blogs, editors, online and gaming magazines, newsportals,personal blogs, newspaper, publishing or review siteand any creative website. BlogAI is SEO friendly, WPML,Gutenberg, translation and RTL ready."
+          },
+          {
+            "themeID" : "3",
+            "themeName": "Doly Blog",
+            "themeUrl": "https://wordpress.org/themes/doly-blog/",
+            "themeDesc" : "Doly Blog Theme is wordpress blog theme for personal use. Fully responsive design displays beautifully across desktop, mobile, and all devices. This Theme is built with the world's most popular responsive CSS framework Bootstrap 4.5, HTML5, CSS3, jQuery and so many modern technologies."
           }
         ]
       },
 
       {
-        "categoryName": "E-commerce",
+        "categoryName": "eCommerce",
         "categoryId" : "3",
         "themes": [
           {
             "themeID" : "1",
-            "themeName": "Theme 1",
-            "themeUrl": "https://example.com/theme3",
-            "themeDesc" : "This is a wordpress theme."
+            "themeName": "Woostify",
+            "themeUrl": "https://wordpress.org/themes/woostify/",
+            "themeDesc" : "Woostify is fast, lightweight, responsive and super flexible WooCommerce theme built with SEO, speed, and usability in mind. The theme works great with any of your favorite page builder likes Elementor, Beaver Builder, SiteOrigin, Thrive Architect, Divi, etc. Therefore, you can build any type of websites like shop, business agencies, corporate, portfolio, education, university portal, consulting, church, restaurant, medical and so on. Woostify is compatible with all well-coded plugins, including major ones like WooCommerce, OrbitFox, Yoast, BuddyPress, bbPress, etc."
           },
           {
             "themeID" : "2",
-            "themeName": "Theme 2",
-            "themeUrl": "https://example.com/theme4",
-            "themeDesc" : "This is a wordpress theme."
+            "themeName": "ShoppingCart",
+            "themeUrl": "https://wordpress.org/themes/shoppingcart/",
+            "themeDesc" : "ShoppingCart is a beautiful theme especially build for Store, eCommerce, Shop and also fits for any kind of Shopping theme which contains all the feature you need to create a stunning website. The theme consists of well organized components so it’s easy to edit and customize everything to create a specific website for your needs. It is designed for Shopping but this is competent for every kind of site such as personal blog, ecommerce, portfolio etc. which is designed and developed by Theme Freesia. With a focus on Shopping sites, it features multiple sections on the front page as well as widgets, multiple navigation and social menus, a logo and more. This theme supports popular plugins like Breadcrumb NavXT, WP-PageNavi, Contact Form 7, Jetpack by WordPress.com, bbPress, wooCommerce and many more. It is 100% translation ready and you can easily customize with lots of options using Customizer. It consists contact us template, gallery template, Shopping Template, widgets and Sidebar."
+          },
+          {
+            "themeID" : "3",
+            "themeName": "Storefront",
+            "themeUrl": "https://wordpress.org/themes/storefront/",
+            "themeDesc" : "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love its lean and extensible codebase making it a joy to customize and extend."
           }
         ]
       }
