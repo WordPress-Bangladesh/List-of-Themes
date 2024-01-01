@@ -2,9 +2,6 @@
     #tableOfContent {
         width: 200px !important;
     }
-    main{
-        background-color: blue !important;
-    }
 }
 * {
     -webkit-tap-highlight-color: transparent;
