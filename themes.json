@@ -103,6 +103,248 @@
             "themeDesc" : "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love its lean and extensible codebase making it a joy to customize and extend."
           }
         ]
+      },
+
+      {
+        "categoryName": "News/Magazine",
+        "categoryId" : "4",
+        "themes": [
+          {
+            "themeID" : "1",
+            "themeName": "ColorMag",
+            "themeUrl": "https://wordpress.org/themes/colormag/",
+            "themeDesc" : "ColorMag is always the best choice when it comes to magazine, news, and blog WordPress themes. You can create elegant and modern websites for news portals, online magazines, and publishing sites. With ColorMag’s 8 and counting free starter demos for health, food, entertainment, sports, and fashion industries, building a magazine style website is super easy. Best of all, the ColorMag WordPress theme offers multiple ad spaces in its layout. So, you can monetize your website by displaying ads in these slots without any fuss."
+          },
+          {
+            "themeID" : "2",
+            "themeName": "Paper News",
+            "themeUrl": "https://wordpress.org/themes/paper-news/",
+            "themeDesc" : "Paper News is a fast, clean, modern-looking Best Responsive News Magazine WordPress theme. The theme is fully widgetized, so users can manage the content by using easy to use widgets. Paper News is suitable for dynamic news, newspapers, magazine, publishers, blogs, editors, online and gaming magazines, newsportals,personal blogs, newspaper, publishing or review siteand any creative website."
+          },
+          {
+            "themeID" : "3",
+            "themeName": "Yuki News Magazine",
+            "themeUrl": "https://wordpress.org/themes/yuki-news-magazine/",
+            "themeDesc" : "Yuki News Magazine is a modern and highly customizable theme. It's a child theme of Yuki. It is optimized for online magazines, newspaper, news portals, content publishers. You can fully customize your site with the built-in easy-to-use and intuitive Homepage Builder."
+          }
+        ]
+      },
+
+      {
+        "categoryName": "Business",
+        "categoryId" : "5",
+        "themes": [
+          {
+            "themeID" : "1",
+            "themeName": "Business FSE",
+            "themeUrl": "https://wordpress.org/themes/business-fse/",
+            "themeDesc" : "Business FSE is a versatile and lightweight Full Site editing WordPress theme customized for a wide range of businesses, including corporate houses, start-ups, law firms, and agencies. The theme is professionally developed that harnesses the full potential of the WordPress block editor to create aesthetically appealing design. Without prior knowledge of coding, you can easily personalize your website using this user-friendly theme. You can also find numerous pre-designed page templates and patterns within the theme. No matter what your niche or goals are, you’ll find the perfect foundation to start your website with this full site editing theme."
+          },
+          {
+            "themeID" : "2",
+            "themeName": "FSE Business Blocks",
+            "themeUrl": "https://wordpress.org/themes/fse-business-blocks/",
+            "themeDesc" : "FSE Business Blocks makes it possible for businesses to create elegant and complex WordPress websites with its simple, clean design and robust feature set. A masterpiece of functionality and design is FSE Business Blocks. It has a variety of useful patterns, such as hero and portfolio sections, big call-to-action buttons, and client endorsements. Building a website for your company, personal brand, or creative endeavour doesn't matter; FSE Business Blocks is ideal for anyone trying to launch rapidly and successfully."
+          },
+          {
+            "themeID" : "3",
+            "themeName": "Next Business",
+            "themeUrl": "https://wordpress.org/themes/next-business/",
+            "themeDesc" : "This business WordPress theme is the ultimate solution for entrepreneurs seeking a professional and polished online presence. With its sleek design and user-friendly interface, showcasing your products and services becomes a breeze. The theme comes with customizable sections to highlight your company's mission, team, and achievements, fostering trust among potential clients. It offers a dedicated services page to present your offerings comprehensively, including clear pricing options. Engaging blog functionality keeps your audience informed and connected. The contact page features an integrated form for easy communication. SEO optimized and mobile-responsive, this business WordPress theme ensures seamless performance across all devices, empowering your business to thrive online."
+          },
+          {
+            "themeID" : "4",
+            "themeName": "Blockskit Corporate",
+            "themeUrl": "https://wordpress.org/themes/blockskit-corporate/",
+            "themeDesc" : "Blockskit Corporate is a modern and versatile WordPress theme designed for various types of websites including small businesses, startups, agencies, firms, personal portfolio sites, and more. It offers full-site-editing, allowing easy customization of all aspects of your site. With multiple templates, patterns, and style variations, it's suitable for different aesthetics. The theme is also compatible with popular plugins like Elementor, WooCommerce, and Spectra – WordPress Gutenberg Blocks, adding extra functionality to your site."
+          }
+        ]
+      },
+
+      {
+        "categoryName": "Service Provider",
+        "categoryId" : "6",
+        "themes": [
+          {
+            "themeID" : "1",
+            "themeName": "CCTV Security System",
+            "themeUrl": "https://wordpress.org/themes/cctv-security-system/",
+            "themeDesc" : "CCTV Security System is a specialized and powerful WordPress theme designed for security companies, surveillance equipment providers, and professionals in the security industry. This theme is a great solution to create a stunning online presence in the CCTV and security industry. With its robust features and sleek design, this theme offers an ideal platform to promote and sell CCTV security systems and related services. Visually, the CCTV Security System theme exudes professionalism and instills a sense of security. Its clean and modern design, coupled with a dark color scheme, conveys a serious and trustworthy image. The theme incorporates high-quality images and graphics that showcase surveillance cameras, security personnel, and other relevant visuals, creating a visually engaging experience for visitors. The theme also offers a seamless e-commerce integration, allowing users to set up an online store and sell CCTV security systems directly from their website."
+          },
+          {
+            "themeID" : "2",
+            "themeName": "Suku",
+            "themeUrl": "https://wordpress.org/themes/suku/",
+            "themeDesc" : "Suku is a free and minimal WordPress FSE theme. It is a Gutenberg-ready WordPress theme and is compatible with all blocks and patterns of WordPress. If you are building a portfolio or blog theme using FSE feature, you can use this theme."
+          },
+          {
+            "themeID" : "3",
+            "themeName": "FotaWP",
+            "themeUrl": "https://wordpress.org/themes/fotawp/",
+            "themeDesc" : "FotaWP is a lightweight, block-based, multipurpose WordPress theme designed to be responsive, SEO-friendly, and optimized for speed. It seamlessly integrates with both Full Site Editing (FSE) and your favorite page builder, Elementor. With over 130+ pre-built ready-to-use patterns, more than 40+ advanced Elementor widgets, and 28+ pre-built demos that can be imported with just one click. It is fully compatible with your favorite page builders and plugins, including Elementor, Gutenberg, Yoast SEO, RankMath, Contact Form, Jetpack, WooCommerce, and more. With FotaWP's exceptional support and compatibility with both FSE and Elementor, users can take full control over their site and achieve stunning websites as per their design and requirements, even with zero coding knowledge."
+          },
+          {
+            "themeID" : "4",
+            "themeName": "Sharkpulse",
+            "themeUrl": "https://wordpress.org/themes/sharkpulse/",
+            "themeDesc" : "Elevate your online presence with Sharkpulse, a cutting-edge WordPress theme designed for full-site editing. Immerse yourself in a seamless website customization experience where every element is at your fingertips. From dynamic homepage arrangements to personalized portfolio showcases, Sharkpulse empowers you to sculpt a modern, urban-inspired digital space that resonates with your unique style. With its intuitive controls and visually stunning layouts, this theme transforms your WordPress journey into a creative exploration of urban aesthetics and functional design."
+          },
+          {
+            "themeID" : "5",
+            "themeName": "Blockskit Corporate",
+            "themeUrl": "https://wordpress.org/themes/blockskit-corporate/",
+            "themeDesc" : "Blockskit Corporate is a modern and versatile WordPress theme designed for various types of websites including small businesses, startups, agencies, firms, personal portfolio sites, and more. It offers full-site-editing, allowing easy customization of all aspects of your site. With multiple templates, patterns, and style variations, it's suitable for different aesthetics. The theme is also compatible with popular plugins like Elementor, WooCommerce, and Spectra – WordPress Gutenberg Blocks, adding extra functionality to your site."
+          }
+        ]
+      },
+
+      {
+        "categoryName": "Nonprofit",
+        "categoryId" : "7",
+        "themes": [
+          {
+            "themeID" : "0",
+            "themeName": "Coming soon...",
+            "themeUrl": "",
+            "themeDesc" : ""
+          }
+        ]
+      },
+
+      {
+        "categoryName": "Personal Branding",
+        "categoryId" : "8",
+        "themes": [
+          {
+            "themeID" : "1",
+            "themeName": "Urbanpulse",
+            "themeUrl": "https://wordpress.org/themes/urbanpulse/",
+            "themeDesc" : "Elevate your online presence with Urbanpulse, a cutting-edge WordPress theme designed for full-site editing. Immerse yourself in a seamless website customization experience, where every element is at your fingertips. From dynamic homepage arrangements to personalized portfolio showcases, Urbanpulse empowers you to sculpt a modern, urban-inspired digital space that resonates with your unique style. With its intuitive controls and visually stunning layouts, this theme transforms your WordPress journey into a creative exploration of urban aesthetics and functional design."
+          },
+          {
+            "themeID" : "2",
+            "themeName": "Blockskit Corporate",
+            "themeUrl": "https://wordpress.org/themes/blockskit-corporate/",
+            "themeDesc" : "Blockskit Corporate is a modern and versatile WordPress theme designed for various types of websites including small businesses, startups, agencies, firms, personal portfolio sites, and more. It offers full-site-editing, allowing easy customization of all aspects of your site. With multiple templates, patterns, and style variations, it's suitable for different aesthetics. The theme is also compatible with popular plugins like Elementor, WooCommerce, and Spectra – WordPress Gutenberg Blocks, adding extra functionality to your site."
+          }
+        ]
+      },
+
+      {
+        "categoryName": "Portfolio",
+        "categoryId" : "9",
+        "themes": [
+          {
+            "themeID" : "1",
+            "themeName": "CV Portfolio Blocks",
+            "themeUrl": "https://wordpress.org/themes/cv-portfolio-blocks/",
+            "themeDesc" : "CV Portfolio Blocks is like a stylish digital resume for people who want to showcase their skills and experiences on the internet. It's perfect for job seekers, freelancers, or anyone who wants to share their professional background with the world. Imagine having a website that's all about you and your qualifications. CV Portfolio Blocks makes it super easy to create a website that looks great and is all about you. You don't need to be a tech expert because it's designed to be user-friendly. You can add your photo, write about your education, work history, and skills, and even include some examples of your work. The design of CV Portfolio Blocks is modern and clean, making your information easy to read and visually appealing. Plus, it works on both computers and mobile devices, so people can check out your resume from anywhere."
+          }
+        ]
+      },
+
+      {
+        "categoryName": "Forum",
+        "categoryId" : "10",
+        "themes": [
+          {
+            "themeID" : "0",
+            "themeName": "Coming soon...",
+            "themeUrl": "",
+            "themeDesc" : ""
+          }
+        ]
+      },
+
+      {
+        "categoryName": "Directory and Listing",
+        "categoryId" : "11",
+        "themes": [
+          {
+            "themeID" : "0",
+            "themeName": "Coming soon...",
+            "themeUrl": "",
+            "themeDesc" : ""
+          }
+        ]
+      },
+
+      {
+        "categoryName": "Review",
+        "categoryId" : "12",
+        "themes": [
+          {
+            "themeID" : "0",
+            "themeName": "Coming soon...",
+            "themeUrl": "",
+            "themeDesc" : ""
+          }
+        ]
+      },
+
+      {
+        "categoryName": "Job Boards",
+        "categoryId" : "13",
+        "themes": [
+          {
+            "themeID" : "0",
+            "themeName": "Coming soon...",
+            "themeUrl": "",
+            "themeDesc" : ""
+          }
+        ]
+      },
+
+      {
+        "categoryName": "Auctions",
+        "categoryId" : "14",
+        "themes": [
+          {
+            "themeID" : "0",
+            "themeName": "Coming soon...",
+            "themeUrl": "",
+            "themeDesc" : ""
+          }
+        ]
+      },
+
+      {
+        "categoryName": "LMS",
+        "categoryId" : "15",
+        "themes": [
+          {
+            "themeID" : "0",
+            "themeName": "Coming soon...",
+            "themeUrl": "",
+            "themeDesc" : ""
+          }
+        ]
+      },
+
+      {
+        "categoryName": "Event Management",
+        "categoryId" : "16",
+        "themes": [
+          {
+            "themeID" : "0",
+            "themeName": "Coming soon...",
+            "themeUrl": "",
+            "themeDesc" : ""
+          }
+        ]
+      },
+
+      {
+        "categoryName": "Landing Pages",
+        "categoryId" : "17",
+        "themes": [
+          {
+            "themeID" : "0",
+            "themeName": "Coming soon...",
+            "themeUrl": "",
+            "themeDesc" : ""
+          }
+        ]
       }
     ]
   }
